@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formatif03B", "Formatif03B\Formatif03B.csproj", "{D590D2CE-0D05-4C53-A5BC-1DF0F73148AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitFormatif03B", "UnitFormatif02B\UnitFormatif03B.csproj", "{36477BC8-9862-4B94-A902-7238FA0E598D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D590D2CE-0D05-4C53-A5BC-1DF0F73148AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D590D2CE-0D05-4C53-A5BC-1DF0F73148AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D590D2CE-0D05-4C53-A5BC-1DF0F73148AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D590D2CE-0D05-4C53-A5BC-1DF0F73148AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36477BC8-9862-4B94-A902-7238FA0E598D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36477BC8-9862-4B94-A902-7238FA0E598D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36477BC8-9862-4B94-A902-7238FA0E598D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36477BC8-9862-4B94-A902-7238FA0E598D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A797173D-3D7F-4398-AF31-919238CEC49C}
+	EndGlobalSection
+EndGlobal
